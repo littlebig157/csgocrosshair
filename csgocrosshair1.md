@@ -1,6 +1,11 @@
 csgocrosshair
 =============
 
+cl_crosshair_drawoutline "1"
+cl_crosshair_dynamic_maxdist_splitratio "0.35"
+cl_crosshair_dynamic_splitalpha_innermod "1"
+cl_crosshair_dynamic_splitalpha_outermod "0.5"
+cl_crosshair_dynamic_splitdist "7"
 cl_crosshair_outlinethickness "1"
 cl_crosshairalpha "255"
 cl_crosshaircolor "5"
